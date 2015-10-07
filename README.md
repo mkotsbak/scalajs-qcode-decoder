@@ -1,5 +1,5 @@
 # scalajs-qcode-decoder
-Scala.Js wrapper for [QRCodeDecoder JS library|http://cirocosta.github.io/qcode-decoder/] for decoding QR codes.
+Scala.Js wrapper for [QRCodeDecoder JS library](http://cirocosta.github.io/qcode-decoder) for decoding QR codes.
   
 #### How to use it
 
